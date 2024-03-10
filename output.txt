@@ -1,0 +1,7 @@
+Case #1: 34
+Case #2: 0
+Case #3: 0
+Case #4: 1
+Case #5: 384
+Case #6: 0
+Case #7: 246

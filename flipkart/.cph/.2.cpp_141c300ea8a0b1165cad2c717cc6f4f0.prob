@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\flipkart\\2.cpp","tests":[{"id":1691219877705,"input":"3 3\n1 0 1\n1 0 0\n1 0 0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\flipkart\\2.cpp","group":"local","local":true}

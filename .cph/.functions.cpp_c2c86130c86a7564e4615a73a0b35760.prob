@@ -1,0 +1,1 @@
+{"name":"Local: functions","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\functions.cpp","tests":[{"id":1684943664559,"input":"1\n2\n1 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\functions.cpp","group":"local","local":true}

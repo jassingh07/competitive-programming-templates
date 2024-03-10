@@ -1,0 +1,1 @@
+{"name":"Local: max marks","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\trianz\\max marks.cpp","tests":[{"id":1692344556164,"input":"5\n1 2 3 4 5","output":"15"},{"id":1692344573253,"input":"5\n1 4 5 4 5","output":"23"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\trianz\\max marks.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: rehabilitation","url":"f:\\desktop data\\cp\\microsoft\\rehabilitation.cpp","tests":[{"id":1694844276790,"input":"4\n4 2 3 7\n2 2","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\desktop data\\cp\\microsoft\\rehabilitation.cpp","group":"local","local":true}

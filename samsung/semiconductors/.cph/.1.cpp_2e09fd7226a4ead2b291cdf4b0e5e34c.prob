@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"f:\\desktop data\\cp\\samsung\\semiconductors\\1.cpp","tests":[{"id":1694417563940,"input":"5\n30 2 3 27 22","output":"3"},{"id":1694417598509,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\desktop data\\cp\\samsung\\semiconductors\\1.cpp","group":"local","local":true}

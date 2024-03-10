@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\salesforces\\1.cpp","tests":[{"id":1690905388834,"input":"2\n1 2","output":"2"},{"id":1690905443011,"input":"5\n2 7 9 3 1","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\salesforces\\1.cpp","group":"local","local":true}

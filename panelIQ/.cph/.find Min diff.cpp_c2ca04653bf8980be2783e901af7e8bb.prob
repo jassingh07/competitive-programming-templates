@@ -1,0 +1,1 @@
+{"name":"Local: find Min diff","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\panelIQ\\find Min diff.cpp","tests":[{"id":1697782102484,"input":"6\n22 32 42 3 13 90\n6","output":"87"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\panelIQ\\find Min diff.cpp","group":"local","local":true}

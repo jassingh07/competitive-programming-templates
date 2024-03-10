@@ -1,0 +1,1 @@
+{"name":"Local: valid ip","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\dboi\\valid ip.cpp","tests":[{"id":1691935733097,"input":"2\n2001:0db8:","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\dboi\\valid ip.cpp","group":"local","local":true}

@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "vector": "cpp",
+        "numeric": "cpp",
+        "unordered_map": "cpp",
+        "cmath": "cpp",
+        "list": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "cph.general.timeOut": 20000,
+    "diffEditor.maxComputationTime": 15000
+}

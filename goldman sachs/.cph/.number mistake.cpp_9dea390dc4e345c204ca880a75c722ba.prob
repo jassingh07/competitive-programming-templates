@@ -1,0 +1,1 @@
+{"name":"Local: number mistake","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\goldman sachs\\number mistake.cpp","tests":[{"id":1700059646549,"input":"16796\n58786","output":"75581\n84581"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\goldman sachs\\number mistake.cpp","group":"local","local":true}

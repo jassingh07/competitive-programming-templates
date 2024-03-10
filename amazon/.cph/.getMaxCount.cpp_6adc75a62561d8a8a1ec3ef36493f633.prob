@@ -1,0 +1,1 @@
+{"name":"Local: getMaxCount","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\amazon\\getMaxCount.cpp","tests":[{"id":1691604922260,"input":"5\n1 2 2 3 4\n+ + - + +","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\cp\\amazon\\getMaxCount.cpp","group":"local","local":true}
